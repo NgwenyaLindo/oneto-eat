@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/oneto-eat/static/css/main.8de2a20b.css",
+    "main.js": "/oneto-eat/static/js/main.28fafda2.js",
+    "static/js/787.f10ebcae.chunk.js": "/oneto-eat/static/js/787.f10ebcae.chunk.js",
+    "index.html": "/oneto-eat/index.html",
+    "main.8de2a20b.css.map": "/oneto-eat/static/css/main.8de2a20b.css.map",
+    "main.28fafda2.js.map": "/oneto-eat/static/js/main.28fafda2.js.map",
+    "787.f10ebcae.chunk.js.map": "/oneto-eat/static/js/787.f10ebcae.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8de2a20b.css",
+    "static/js/main.28fafda2.js"
+  ]
+}
